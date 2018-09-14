@@ -20,6 +20,7 @@ if text.match(/\b[A-Z][!.?]/)
   return true 
 else return false
 end
+end
 
 def valid_phone_number?(phone)
 
